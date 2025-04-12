@@ -1,2 +1,3 @@
-一些碎片的集合
-mans.cc
+些许被生活撞散的碎片、承岁月冲刷的沟壑、受烟火熏染的痕迹.......
+曼斯书咖：http://mans.cc
+&copy; 2025 <a href="http://mans.cc">mans.cc</a> ｜ <a href="mailto:lidoxu@lidoxu.com" target="_blank">Email</a>.
