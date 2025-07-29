@@ -1,6 +1,6 @@
-Mans.cc｜曼斯書咖
+NAV.GE｜航鸽
 ===
-### Demo: [➡️ www.mans.cc](https://mans.cc)
+### Demo: [➡️ www.nav.ge](https://nav.ge)
 
 这是一个纯静态网址导航页面，其中相关内容为日常所用，如果有幸遇到也希望对你有用......
 
