@@ -1,4 +1,4 @@
-导航鸽┆Nav.ge
+导航鸽｜Nav.ge
 ===
 ### Demo: [➡️ www.nav.ge](https://nav.ge)
 
