@@ -1,6 +1,6 @@
-导航鸽｜Nav.ge
+漫斯書咖｜nav.mans.cc
 ===
-### Demo: [➡️ www.nav.ge](https://nav.ge)
+### Demo: [➡️ nav.mans.cc](https://nav.mans.cc)
 
 这是一个纯静态网址导航页面，其中相关内容为日常所用，如果有幸遇到也希望对你有用......
 
