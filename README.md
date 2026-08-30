@@ -1,4 +1,4 @@
-漫斯書咖｜nav.mans.cc
+漫斯書咖┇nav.mans.cc
 ===
 ### Demo: [➡️ nav.mans.cc](https://nav.mans.cc)
 
